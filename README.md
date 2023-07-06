@@ -9,7 +9,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/mmanzoor825/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mmanzoor825/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mmanzoor825/ticket-lifecycle)
-- <b>Inspecting Network Protocols 
+- <b>Inspecting Network Protocols with Wireshark 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mmanzoor825/azure-network-protocols)
 <h2>🤳Connect with me:</h2>
 
